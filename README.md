@@ -2,6 +2,7 @@
 初投稿です。ソウルナンバーを用いて、相性を判別してくれるシステムです。絶賛修正中です。
 
 以下コード##2021/11/22
+
 pip install transitions
 
 !git clone https://github.com/kkuramitsu/tatoeba.git
